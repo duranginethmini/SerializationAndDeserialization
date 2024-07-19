@@ -10,7 +10,7 @@ Serialization - Serialization is the process of converting an object into a byte
 Deserialization- Deserialization is the process of reconstructing an object from a byte stream.This is done using the “ObjectInputStream “class.
 
 
-Advantages of Serialization and Deserialization in Java
+**Advantages of Serialization and Deserialization in Java**
 
 
 1. Persistence
@@ -25,7 +25,7 @@ Advantages of Serialization and Deserialization in Java
 Cross-Platform: Serialized Java objects can be moved across different platforms (Windows, Linux, etc.), retaining their state without compatibility issues.
 
 
-Process of Serialization and Deserialization
+**Process of Serialization and Deserialization**
 Serialization
 
 Marking classes as serializable - A class must implement the java.io.Serializable interface 
