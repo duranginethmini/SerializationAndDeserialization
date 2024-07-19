@@ -45,7 +45,8 @@ Reading objects from a stream - When an object is read using the readObject() me
 Example code
 
 Student.java
-![Uploading Screenshot from 2024-07-19 08-52-39.png…]()
+![Screenshot from 2024-07-19 08-52-39](https://github.com/user-attachments/assets/001b7fb6-9be4-4a54-b176-d47f75f810a4)
+
 
 Main.java
 ![Screenshot from 2024-07-19 08-52-31](https://github.com/user-attachments/assets/bbdc9bce-316b-48ad-91de-6256ad894af1)
