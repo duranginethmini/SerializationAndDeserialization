@@ -45,7 +45,8 @@ Reading objects from a stream - When an object is read using the readObject() me
 Example code
 
 Student.java
-![Screenshot from 2024-07-19 08-52-39](https://github.com/user-attachments/assets/001b7fb6-9be4-4a54-b176-d47f75f810a4)
+![Screenshot from 2024-07-19 08-52-39](https://github.com/user-attachments/assets/15a326de-a7b7-41db-9910-ed485f36e07a)
+
 
 
 Main.java
