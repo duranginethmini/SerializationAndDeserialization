@@ -53,6 +53,7 @@ Student.java
 Main.java
 ![Screenshot from 2024-07-19 08-52-31](https://github.com/user-attachments/assets/32f89f06-0523-4217-8529-f7efaeecb2f9)
 
+This class indicate the process of serialization and deserialization.
 
 
 
