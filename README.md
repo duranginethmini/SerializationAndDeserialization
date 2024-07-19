@@ -5,9 +5,9 @@ Serialization and deserialization in Java are processes used to convert an objec
 or caching objects.
 
 
-Serialization - Serialization is the process of converting an object into a byte stream. This byte stream can be saved to a file, sent over a network, or stored in memory.This is done using the “java.io.Serializable” interface.
+**Serialization** - Serialization is the process of converting an object into a byte stream. This byte stream can be saved to a file, sent over a network, or stored in memory.This is done using the “java.io.Serializable” interface.
 
-Deserialization- Deserialization is the process of reconstructing an object from a byte stream.This is done using the “ObjectInputStream “class.
+**Deserialization**- Deserialization is the process of reconstructing an object from a byte stream.This is done using the “ObjectInputStream “class.
 
 
 **Advantages of Serialization and Deserialization in Java**
@@ -26,7 +26,8 @@ Deserialization- Deserialization is the process of reconstructing an object from
 
 
 **Process of Serialization and Deserialization**
-Serialization
+
+**Serialization**
 
 Marking classes as serializable - A class must implement the java.io.Serializable interface 
 
@@ -36,7 +37,7 @@ Writing objects to a stream - When an object is passed to the writeObject() meth
 
 
 
-Deserialization 
+**Deserialization** 
 
 Creating an Input stream - The ObjectInputStream class is used to read objects from an input stream. 
 
